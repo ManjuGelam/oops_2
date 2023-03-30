@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>oops_project</RootNamespace>
+	  <StartupObject>oops_project.ConstructorDemo </StartupObject>
+	 
+  </PropertyGroup>
+
+</Project>
